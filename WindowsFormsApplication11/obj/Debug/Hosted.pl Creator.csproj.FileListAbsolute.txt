@@ -1,0 +1,15 @@
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\itextsharp.dll
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\itextsharp.xml
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Formm.Form1.resources
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Hosted.pl Creator.csproj.GenerateResource.Cache
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Hosted.pl Kreator Fraz.exe.config
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Hosted.pl Kreator Fraz.exe.manifest
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Hosted.pl Kreator Fraz.application
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Hosted.pl Kreator Fraz.exe
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Hosted.pl Kreator Fraz.pdb
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Hosted.pl Creator.csprojResolveAssemblyReference.cache
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Hosted.pl Kreator Fraz.exe.manifest
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Hosted.pl Kreator Fraz.application
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Hosted.pl Kreator Fraz.exe
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Hosted.pl Kreator Fraz.pdb

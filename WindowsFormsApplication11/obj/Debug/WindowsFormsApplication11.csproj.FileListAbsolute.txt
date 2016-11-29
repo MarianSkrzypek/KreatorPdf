@@ -1,0 +1,15 @@
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\itextsharp.dll
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\itextsharp.xml
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Formm.Form1.resources
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.manifest
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.application
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe.manifest
+C:\Users\MarianSkrzypek\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.application

@@ -1,0 +1,7 @@
+D:\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\bin\Debug\iTextDemoInConsole.exe.config
+D:\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\bin\Debug\iTextDemoInConsole.exe
+D:\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\bin\Debug\iTextDemoInConsole.pdb
+D:\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\bin\Debug\itextsharp.dll
+D:\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\obj\x86\Debug\iTextInAction.csprojResolveAssemblyReference.cache
+D:\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\obj\x86\Debug\iTextDemoInConsole.exe
+D:\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\obj\x86\Debug\iTextDemoInConsole.pdb
